@@ -1,0 +1,22 @@
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.exe
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.deps.json
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.runtimeconfig.json
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.dll
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\bin\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.pdb
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\CompraPlatos.g.cs
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2_MarkupCompile.cache
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2_MarkupCompile.lref
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\CompraPlatos.baml
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.g.resources
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.AssemblyInfo.cs
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.dll
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.pdb
+C:\Users\Asus\Documents\Projects\3er SEM\Alicia Virreira_PRG_III (B)_Práctica2\Alicia Virreira_PRG_III (B)_Práctica2\obj\Debug\netcoreapp3.1\Alicia Virreira_PRG_III (B)_Práctica2.genruntimeconfig.cache
