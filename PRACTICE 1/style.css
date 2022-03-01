@@ -1,0 +1,88 @@
+
+body{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title{
+    position: relative;
+    background-image: url(tourism.jpg);
+    vertical-align:text-bottom;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+    width: 1000px;
+    height: 150px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+#title:before{
+    content: '';
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;;
+
+}
+#title div{
+    position: relative;
+}
+#text{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+
+}
+
+.attractions {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+
+    display: flex;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+.attraction{
+    width: 300px;
+    height: 25px;
+    
+    text-align: center;
+    font-weight: bold;
+}
+.images{
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image{
+    
+    margin-right: auto;
+    margin-left: auto;
+
+    height: 200px;
+    width: 270px;
+    
+}
+#Price{
+    width: 300px;
+    height: 25px;
+    text-align: center;
+}
