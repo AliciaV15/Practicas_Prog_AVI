@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            CSS positioning
+        </title>
+        <style type="text/css">
+            body {
+                font-family: Arial;
+                color: #009;
+            }
+
+            #main {
+                width: 80%;
+                height: 2000px;
+                margin-left: auto;
+                margin-right: auto;
+
+                border-width: 20px;
+                border-style: solid;
+                border-color: blue;
+            }
+
+            #child1 {
+                position: relative;
+                background-color: #fcc;
+                width: 200px;
+                height: 200px;
+                border-width: 20px;
+                border-style: solid;
+                border-color: black;
+                top: 50px;
+                left: 50px;
+            }
+
+            #child2 {
+                position: absolute;
+                background-color: #fcc;
+                width: 200px;
+                height: 200px;
+                border-width: 20px;
+                border-style: solid;
+                border-color: red;
+                /*top: 50px;
+                left: 50px;*/
+                bottom: 50px;
+                right: 50px;
+                z-index: 1;
+            }
+
+            #child3 {
+                position: fixed;
+                background: linear-gradient(45deg, blue 30%, white 60%, red 90%);
+                width: 200px;
+                height: 200px;
+                border-width: 20px;
+                border-style: solid;
+                border-color: black;
+                /*top: 50px;
+                left: 50px;*/
+                bottom: 70px;
+                right: 70px;
+            }
+
+            #child4 {
+                position: sticky;
+                background: linear-gradient(-45deg, blue 30%, white 60%, red 90%);
+                width: 200px;
+                height: 200px;
+                border-width: 20px;
+                border-style: solid;
+                border-color: black;
+                top: 50px;
+                left: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            CSS positioning
+        </h1>
+        <div id="main">
+            <div id="child1">
+                Child 1
+            </div>
+            <div id="child2">
+                Child 2
+            </div>
+            <div id="child3">
+                Child 3
+            </div>
+            <div id="child4">
+                Child 4
+            </div>
+        </div>
+        <!--
+            Crear tres elementos:
+            * posicionamiento relativo, fijo y absoluto
+            * personalizar el fondo, tipo de letra, etc.
+
+            9:40
+        -->
+    </body>
+</html>
