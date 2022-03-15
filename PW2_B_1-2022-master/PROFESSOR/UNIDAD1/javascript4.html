@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Javascript classes
+        </title>
+        <script type="text/javascript">
+            function Person(firstName, lastName) { // Clase, constructor
+                this.firstName = firstName;
+                this.lastName = lastName;
+            }
+
+            Person.prototype.sayHi = function() {
+                console.log(this.firstName + ' ' + this.lastName);
+            }
+
+            let person = new Person('John', 'Doe');
+            person.sayHi();
+
+            // Notación de ECMAScript 6
+
+            class ES6Person {
+                constructor(firstName, lastName) {
+                    this.firstName = firstName;
+                    this.lastName = lastName;
+                }
+
+                showData() {
+                    console.log(`${this.firstName} ${this.lastName}`);
+                }
+            }
+
+            class Student extends ES6Person {
+                constructor(firstName, lastName, semester) {
+                    super(firstName, lastName);
+                    this.semester = semester;
+                }
+
+                showData() {
+                    console.log(`${this.firstName} ${this.lastName} ${this.semester}`);
+                }
+            }
+
+            class Professor extends ES6Person {
+                constructor(firstName, lastName, salary) {
+                    super(firstName, lastName);
+                    this.salary = salary;
+                }
+
+                showData() {
+                    console.log(`${this.firstName} ${this.lastName} ${this.salary}`);
+                }
+            }
+
+            let person1 = new ES6Person('Juan', 'Perez');
+            person1.showData();
+
+            let alberto = new Student('Alberto', 'Gomez', 5);
+            alberto.showData();
+
+            /**
+                Definir la clase Professor que hereda de ES6Person
+                con el atributo adicional: salary
+                Sobreescribir el método showData() para que muestre el nombre, apellido y salario
+                10:55
+            */
+
+            let john = new Professor('John', 'Smith', 3000);
+            john.showData();
+
+            let students = [
+                new Student('Marco', 'Gomez', 5),
+                new Student('Juan', 'Lopez', 7),
+                new Student('Martha', 'Flores', 8)
+            ];
+
+            for (let student of students) {
+                document.write(`<p>${student.firstName} ${student.lastName} ${student.semester}</p>`);
+            }
+        </script>
+    </head>
+    <body>
+        <h2>
+            Javascript classes
+        </h2>
+    </body>
+</html>
